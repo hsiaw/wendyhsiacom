@@ -1,5 +1,12 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
+:root {
+    --schemeSalmon: #FA7C92;
+    --schemeRain: #6EC4DB;
+    --schemeButtermilk: #FFF7C0;
+    --schemeLeaf: #66AB8C;
+}
+
 
 a.navbar-brand {
   white-space: normal;
