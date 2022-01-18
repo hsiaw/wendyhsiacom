@@ -7,6 +7,11 @@ for details on configuring this project to bundle and minify static web assets. 
     --schemeLeaf: #66AB8C;
 }
 
+a.salmonbutton{
+    background-color:#FA7C92;
+    white-space:normal;
+    text-align:center;
+}
 
 a.navbar-brand {
   white-space: normal;
@@ -29,6 +34,10 @@ a {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+}
+
+p.bgSalmon {
+    background-color: #FA7C92;
 }
 
 /* Sticky footer styles
