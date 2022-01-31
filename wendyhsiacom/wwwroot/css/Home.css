@@ -41,8 +41,16 @@
 
 .u-section-0 {
     background-position: 50% 73.55%;
-    background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("https://www.seattlechristian.org/wp-content/uploads/2018/08/campus-photo-favorite.jpg");
+    
 }
+
+    .u-section-0 .u-image-1 {
+        background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("https://www.seattlechristian.org/wp-content/uploads/2018/08/campus-photo-favorite.jpg");
+    }
+
+    .u-section-0 .u-image-1 {
+        background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("../lib/Images/front-bellevuechildrensacademy.jpg");
+    }
 
     .u-section-0 .u-sheet-1 {
         min-height: 388px;
