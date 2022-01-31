@@ -441,6 +441,12 @@
         background-position: 50% 50%;
     }
 
+    .u-section-5 .u-image-4 {
+        min-height: 431px;
+        background-image: url("../lib/Images/etonschool.png");
+        background-position: 50% 50%;
+    }
+
     .u-section-5 .u-container-layout-1 {
         padding: 30px 60px;
     }
