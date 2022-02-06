@@ -4321,6 +4321,7 @@ input[type="button"].btn-block {
     flex-basis: auto;
   }
   .navbar-expand-md .navbar-toggler {
+    display: none;
   }
 }
 
